@@ -10,7 +10,7 @@ ao clique </p>
 <h2 align="left">Segue uma pequena demonstração do projeto em funcionamento</h2>
 
   <div align="left">
-  <img src="https://github.com/Lucas8901/Caravam-Bootstrap5/blob/main/img/bandicam%202023-05-26%2016-02-21-246.gif"/>
+  <img src="https://github.com/Lucas8901/Iphone_13_Pro_Sales/blob/main/assets/img/bandicam%202023-08-08%2012-21-55-079.gif"/>
   </div>
   
 <br>
